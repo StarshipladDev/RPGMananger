@@ -1,0 +1,2 @@
+# RPGMananger
+This is a peice of software I began working on in November 2017. I plan on having the user place a custom map onto the software, and then be able to connect with a server application over a local network on a set port to communicate movment over the map with customization-based units. I want there to be displayed, unique stats for each unit, and a chat feature that updates apoun sending messages.
